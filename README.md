@@ -1,3 +1,4 @@
+
 This is an example of connecting an Android App with a Rails App using an HTTPClient. 
 
 It is based of this tutorial:
@@ -19,4 +20,4 @@ I also needed to edit the Controller for my rails app to include the following l
 
 Remember to add the following line to your manifest file:
 
-" uses-permission android:name="android.permission.INTERNET" 
+<uses-permission android:name="android.permission.INTERNET/> 
